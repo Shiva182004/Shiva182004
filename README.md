@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Shiva182004/Shiva182004/output/snake.svg" alt="Snake animation" />
-
-###
